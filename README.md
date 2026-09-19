@@ -1,9 +1,12 @@
 <div align="center">
 
-<br>
+<!-- GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
+
+<br><br>
 
 <!-- NOME EM JAPONÊS -->
-<img src="https://img.shields.io/badge/アーサー-6A6ECD?style=flat-square&label=">
+<img src="https://img.shields.io/badge/アーサー-6A6ECD?style=flat-square">
 
 <br>
 
@@ -12,7 +15,7 @@
 
 <br><br>
 
-<!-- FRASES QUE FICAM APARECENDO E SUMINDO -->
+<!-- FRASES ANIMADAS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=800&color=6A6ECD&center=true&vCenter=true&width=700&lines=Stay+hungry.+Stay+foolish.;Do+or+do+not.+There+is+no+try.;Why+do+we+fall%3F+So+we+can+learn+to+pick+ourselves+back+up.;It's+dangerous+to+go+alone!+Take+this.;The+Force+will+be+with+you%2C+always." />
 
 <br><br><br>
