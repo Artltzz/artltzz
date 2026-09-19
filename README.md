@@ -1,28 +1,35 @@
 <div align="center">
 
-<!-- GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+<!-- ───────────────────── GIF ───────────────────── -->
 
-<br><br>
-
-<!-- NOME EM JAPONÊS -->
-<img src="https://img.shields.io/badge/アーサー-6A6ECD?style=flat-square">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 
 <br>
 
-<!-- FRASE -->
-<span style="color:#6A6ECD; font-family:monospace;">
-Little birds can remember
-</span>
+<!-- ──────────────────── NAME ───────────────────── -->
 
-<br><br>
+<h2>アーサー</h2>
 
-<!-- FRASES MOTIVACIONAIS ANIMADAS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=800&color=6A6ECD&center=true&vCenter=true&width=700&lines=Stay+hungry.+Stay+foolish.;Do+or+do+not.+There+is+no+try.;Why+do+we+fall%3F+So+we+can+learn+to+pick+ourselves+back+up.;It's+dangerous+to+go+alone!+Take+this.;The+Force+will+be+with+you%2C+always." />
+<p>
+  <code>Little birds can remember</code>
+</p>
+
+<br>
+
+<!-- ───────────────── CULTURE POP ───────────────── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=900&color=6A6ECD&center=true&vCenter=true&width=650&height=35&lines=Stay+hungry.+Stay+foolish.;Do+or+do+not.+There+is+no+try.;It's+dangerous+to+go+alone!+Take+this.;The+Force+will+be+with+you%2C+always.;Why+do+we+fall%3F+So+we+can+learn+to+pick+ourselves+back+up." />
 
 <br><br><br>
 
-<!-- SKILLS -->
+<!-- ──────────────────── SKILLS ─────────────────── -->
+
+<h3>⚙️ Skills</h3>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,mysql,figma,git,github,docker,aws&theme=dark" />
+
+<br><br>
 
 </div>
