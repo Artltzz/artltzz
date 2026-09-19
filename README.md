@@ -8,15 +8,9 @@
 
 <br><br>
 
-### 👋 Hi there! I'm Arthur
+Hi there! I'm Arthur
 
-<br>
-
-<p>
-  Estudante de Análise e Desenvolvimento de Sistemas
-</p>
-
-<br>
+<br><br>
 
 ## 🛠️ Skills
 
@@ -29,20 +23,13 @@
 
 <br>
 
-### 💻 About me
+🎓 Analysis and Systems Development
 
-Estudante de ADS interessado em desenvolvimento de software,
-backend, tecnologia e criação de projetos.
+💻 Web Development · Backend · APIs
 
-<br>
+☁️ Cloud · Docker · AWS
 
-### 🚀 Currently learning
-
-- Backend
-- APIs
-- Cloud
-- Docker
-- Segurança
+🔐 Cybersecurity
 
 </details>
 
