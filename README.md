@@ -1,27 +1,48 @@
-# 💫 About Me:
-Olá, meu nome é Arthur<br>Sou estudante de ADS na faculdade SENAC<br>
+<div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="280">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/art_ltzz) 
+<br><br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Artltzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Artltzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artltzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A6ECD&center=true&vCenter=true&width=500&lines=Little+birds+can+remember" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Artltzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,mysql,figma,git,github,docker,aws&perline=7" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Artltzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Artltzz&icon=2&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary>▸ More Info</summary>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+### 💻 Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,mysql,figma,git,github,docker,aws&perline=7" />
+
+<br><br>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs&perline=6" />
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql&perline=3" />
+
+<br><br>
+
+### 🛠️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma&perline=5" />
+
+</details>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=6A6ECD&style=flat-square&label=Profile+views">
+
+</div>
