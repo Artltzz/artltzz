@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- IMAGEM DO TOPO -->
-<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="220">
+<img src="https://github.com/hak553/photoToProfile/blob/main/Controller.svg" width="220">
 
 <br><br>
 
@@ -16,7 +16,7 @@
 <br><br>
 
 <!-- BOTÃO -->
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/artltzz">
   <img src="https://img.shields.io/badge/Arthur-000000?style=flat-square&logo=github&logoColor=white" />
 </a>
 
