@@ -9,14 +9,12 @@
 <h2>アーサー</h2>
 
 <!-- FRASE -->
-<p>
-  <code>Little birds can remember</code>
-</p>
+<p>Little birds can remember</p>
 
 <br>
 
 <!-- FRASES ANIMADAS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=900&color=6A6ECD&center=true&vCenter=true&width=650&height=35&lines=Stay+hungry.+Stay+foolish.;Do+or+do+not.+There+is+no+try.;It's+dangerous+to+go+alone!+Take+this.;The+Force+will+be+with+you%2C+always.;Why+do+we+fall%3F+So+we+can+learn+to+pick+ourselves+back+up." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=900&color=6A6ECD&center=true&vCenter=true&width=750&height=35&lines=Wake+up%2C+get+up%2C+get+out+there.;It's+dangerous+to+go+alone!+Take+this.;Hey!+Listen!;War.+War+never+changes.;The+cake+is+a+lie.;Still+alive.;There+is+no+spoon.;Follow+the+white+rabbit.;Wake+the+fuck+up%2C+Samurai.;May+your+heart+be+your+guiding+key.;You+Died.;Praise+the+Sun!;Plus+Ultra!;Believe+it!;Bankai!;The+world+shall+know+pain.;I'm+gonna+be+King+of+the+Pirates!;This+is+where+the+fun+begins.;Hello%2C+World!;It+works+on+my+machine." />
 
 <br><br>
 
@@ -25,6 +23,6 @@
 <br>
 
 <!-- SKILLS -->
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,mysql,figma,git,github,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,mysql,figma,git,github,docker,aws&theme=dark">
 
 </div>
